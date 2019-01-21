@@ -20,4 +20,6 @@ Para evitar que se inserte script, se crea una lista blanca de los lenguajes dis
 
 Luego al realizar la misma prueba que se realizó al inicio con el código corregido(XSS-DOM-FINAL.txt), ya no se inserta el script:
 
+![image](https://user-images.githubusercontent.com/46895869/51500182-289c9e80-1d9b-11e9-8ec0-f24089ceb56a.png)
+
 
