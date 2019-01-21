@@ -1,3 +1,6 @@
+En el ejercicio XSS DOM de DVWA, se tiene el código inicial()
+
+
 Cómo se muestra en XSS DOM, se inserta el script:
 
 
