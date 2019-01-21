@@ -1,4 +1,4 @@
-En el ejercicio XSS DOM de DVWA, se tiene el código inicial()
+En el ejercicio XSS DOM de DVWA, se tiene el código inicial(XSS-DOM-INICIAL.txt)
 
 
 Cómo se muestra en XSS DOM, se inserta el script:
