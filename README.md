@@ -10,3 +10,8 @@ Cómo se muestra en XSS DOM, se inserta el script:
 El atacante intentará una técnica diferente para explotar la vulnerabilidad, puede insertar un script malicioso utilizando la función de carga de JavaScript> <body onload = alert ("XSS")> y enviar un enlace a la víctima. En este nivel, el atacante primero debe romper el bloque de selección para inyectar la carga del cuerpo o la etiqueta de imagen.
   
  
+![image](https://user-images.githubusercontent.com/46895869/51500056-ae6c1a00-1d9a-11e9-91f0-c80ad12f53a9.png)
+
+
+Para evitar que se inserte script, se crea una lista blanca de los lenguajes disponibles:
+
